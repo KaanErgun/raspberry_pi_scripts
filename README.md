@@ -8,7 +8,7 @@ This script automates the installation of OpenCV 4.8.0 on Raspberry Pi 4 with a 
 2. Download the script and make it executable:
 
     ```bash
-    wget -O install_opencv.sh https://github.com/KaanErgun/raspberry_pi_scripts/install_opencv.sh
+    wget -O install_opencv.sh https://raw.githubusercontent.com/KaanErgun/raspberry_pi_scripts/main/install_opencv.sh
     chmod +x install_opencv.sh
     ```
 
@@ -27,4 +27,4 @@ The script performs the following steps:
 3. Configures and installs OpenCV.
 4. Cleans up after installation.
 
-For more information and the full content of the script, please refer to the [install_opencv.sh](https://github.com/KaanErgun/raspberry_pi_scripts/install_opencv.sh) file.
+For more information and the full content of the script, please refer to the [install_opencv.sh](https://raw.githubusercontent.com/KaanErgun/raspberry_pi_scripts/main/install_opencv.sh) file.
