@@ -1,6 +1,6 @@
-# OpenCV 4.8.0 Installation Bash Script
+# OpenCV Installation Bash Script
 
-This script automates the installation of OpenCV 4.8.0 on Raspberry Pi 4 with a 64-bit OS. The script installs the necessary dependencies, downloads OpenCV and the contrib modules, configures, and installs them.
+This script automates the installation of OpenCV 4.x.x on Raspberry Pi 4 with a 64-bit OS. The script installs the necessary dependencies, downloads OpenCV and the contrib modules, configures, and installs them.
 
 ## Usage
 
@@ -15,7 +15,7 @@ This script automates the installation of OpenCV 4.8.0 on Raspberry Pi 4 with a 
 3. Run the script:
 
     ```bash
-    ./install_opencv.sh 4.8.0
+    ./install_opencv.sh 4.x.x
     ```
 
 ## Script Overview
